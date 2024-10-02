@@ -1,3 +1,3 @@
-Paths:
-Git <-> Local
-/homefolder/ <-> /home/<username>/
+Paths:<br /> 
+Git <-> Local<br />
+/homefolder/ <-> /home/<username>/<br />
