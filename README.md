@@ -1,8 +1,11 @@
 # Mast lay shrouded and the Moon is melting...
 
 # Screenshot
+## Desktop
 ![image](https://github.com/user-attachments/assets/5355cff7-0a87-40b7-ad54-b4a4c8e95cfa)
+## File Manager
 ![image](https://github.com/user-attachments/assets/aebe49eb-d19e-4fa6-afc8-21bcd2cdc65c)
+## Terminal
 ![image](https://github.com/user-attachments/assets/77cd6da6-0005-4b38-a4e1-4cd7fd43ea8a)
 
 <br />
