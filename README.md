@@ -17,4 +17,18 @@
 - Window decorator: Utterly Round Dark
 - Colors: Backtrack 5
 - Logo: Camarilla Icon from VtM Bloodlines
+
+# KDE upper Panel Settings
+![image](https://github.com/user-attachments/assets/dd53c10d-1f4b-4b69-8acd-c46cdff09709)
+
+# KDE upper Panel Widgets
+- Darwin Menu
+
+# KDE lower Panel (Dock) Settings
+- Icons only manager
+
+![image](https://github.com/user-attachments/assets/d11eac05-5d8f-497f-8d60-14f8217a23ca)
+
+
+
 <br />
