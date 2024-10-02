@@ -10,6 +10,8 @@
 ## Terminal
 ![image](https://github.com/user-attachments/assets/bb619619-111c-4b28-9615-43b97c94f901)
 
+## Experimental prompt using the same technique that neofetch uses for images:
+![image](https://github.com/user-attachments/assets/c751e3be-d1ee-471c-a7f6-77a62a1b9f4c)
 
 <br />
 
