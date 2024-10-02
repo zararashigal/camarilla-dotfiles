@@ -3,10 +3,13 @@
 # Screenshot
 ## Desktop
 ![image](https://github.com/user-attachments/assets/5355cff7-0a87-40b7-ad54-b4a4c8e95cfa)
+
 ## File Manager
-![image](https://github.com/user-attachments/assets/aebe49eb-d19e-4fa6-afc8-21bcd2cdc65c)
+![image](https://github.com/user-attachments/assets/2a87e6ab-17d4-4fc8-a7ab-cff2f737e896)
+
 ## Terminal
-![image](https://github.com/user-attachments/assets/77cd6da6-0005-4b38-a4e1-4cd7fd43ea8a)
+![image](https://github.com/user-attachments/assets/bb619619-111c-4b28-9615-43b97c94f901)
+
 
 <br />
 
