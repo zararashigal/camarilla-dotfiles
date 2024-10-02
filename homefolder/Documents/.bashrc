@@ -14,4 +14,4 @@ PS1='\[\e[38;5;196m\]☥ \[\e[38;5;250m\]\A\[\e[0m\] \[\e[38;5;250m\][\[\e[38;5;
 
 # Neofetch
 clear
-neofetch --kitty /home/ash/Documents/camarilla.png
+neofetch --kitty /home/$USER/Documents/camarilla.png
