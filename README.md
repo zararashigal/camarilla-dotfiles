@@ -1,5 +1,5 @@
 # Mast lay shrouded and the Moon is melting...
-
+## THE EXPERIMENTAL BASH PROMPT WILL NEED KITTY INSTALLED!
 # Screenshot
 ## Desktop
 ![image](https://github.com/user-attachments/assets/5355cff7-0a87-40b7-ad54-b4a4c8e95cfa)
